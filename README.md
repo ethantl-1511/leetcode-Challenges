@@ -1,5 +1,5 @@
 # leetcode Challenges
-<p>A repository of various completed challenges from leetcode.com</p>
+<p>A repository of various completed challenges from <a href="https://leetcode.com/">leetcode.com</a>.</p>
 
 # Info
 <p>Every challenge was written off-site using my own preferred IDEs as testing grounds, and then submitted to the website.</p>
